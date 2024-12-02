@@ -3,8 +3,9 @@
 ### 3/12/2024
 Prior to Meeting/Talking Points:
 <ol>
-<li> Discuss the importance of boundary conditions, solver not working when nx=ny=5 for example.
+<li> Farhadifar_Model notebook
+<li> Discuss the importance of boundary conditions
 <li> Discuss forces on larger tissues and compare to my hand calculated values
-<li> Expectation for force values using half edge structure on boundary.
+<li> Expectation for force values using half edge structure on boundary
 <li> "is_active" parameters in model spec dictionary could help define boundary conditions
 </ol>
