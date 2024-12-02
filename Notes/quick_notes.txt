@@ -9,3 +9,15 @@ Prior to Meeting/Talking Points:
 <li> Expectation for force values using half edge structure on boundary
 <li> "is_active" parameters in model spec dictionary could help define boundary conditions
 </ol>
+
+Minutes
+<ol>
+<li> Need to find boundary conditions that the model uses, perhaps use periodic boundary condition
+<li> Send Alyssa yml file
+<li> Gradient descent is stepping in the opposite direction to the gradient, to approach a minimum
+<li> For substrate friction method, /eta /dv{x}{t} = - \nabla E = F
+<li. Consider which method to use
+<li> Differentiate energy function to have an attempt prepared for the next meeting
+<li> Get started in a Latex document, begin outlining report
+<li> Discuss Gen AI on Thursday
+</ol>  
